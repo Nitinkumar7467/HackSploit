@@ -1,2 +1,0 @@
-# HackSploit
-HackSploit-Framework
